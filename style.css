@@ -1,0 +1,32 @@
+body{
+	width: 100%;
+	height:500px;
+	background-image: url(image/mewe.jpg);
+	text-align: center;
+}
+img{
+	border-radius: 100%;
+}
+.title{
+	color: white;
+	font-size: 56px ;
+}
+.desc{
+	color: white;
+	font-size: 20px;
+}
+.btn{
+	height: 60px;
+	weight: 140px;
+	background color: white;
+	color: Black;
+	border-radius: 8px;
+	border: none ;
+	font-size: 25pxs;
+	
+
+}
+.btn:hover{
+	background-color: red;
+	transform: scale(0.8);
+}
